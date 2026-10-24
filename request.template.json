@@ -1,0 +1,13 @@
+{
+  "type": "image",
+  "image": {
+    "type": "asset_id",
+    "asset_id": "<IMAGE_ASSET_ID>"
+  },
+  "audio_asset_id": "<AUDIO_ASSET_ID>",
+  "title": "<VIDEO_TITLE>",
+  "resolution": "1080p",
+  "aspect_ratio": "9:16",
+  "expressiveness": "low",
+  "motion_prompt": "Natural small head movements and blinks while speaking. Head upright and chin level, direct eye contact, calm conversational delivery. Keep facial proportions and appearance consistent. No exaggerated gestures."
+}
